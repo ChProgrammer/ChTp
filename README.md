@@ -1,5 +1,4 @@
 # ChTp
 
 
-
-A simple tp plugin open source.
+A simple opensource tp plugin
